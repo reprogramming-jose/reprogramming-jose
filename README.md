@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Good morning, I am writing to inform that the request for transportation reimbursement for ******** was denied by ****. I have included screenshots of both Knowledge Article  and the rationale of denial for reimbursement by ****. The reply from **** denying reimbursement contradicts the Knowledge Article which happens to be the basis of my attempt to advocate for our member. Knowledge Article  clearly states that if a member pays for services rendered by a provider outside of ****, member can be reimbursed if review meets criteria, while the reason for denial was that . Will these be the final result or do we have a reserve that can satisfy the members request?
+
 <!---
 reprogramming-jose/reprogramming-jose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
